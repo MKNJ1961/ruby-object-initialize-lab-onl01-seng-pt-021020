@@ -14,4 +14,4 @@
 
 beyonce Person.new
 beyonce.name = "Beyonce"
-name 
+beyonce.name 
