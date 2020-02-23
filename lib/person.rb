@@ -3,7 +3,3 @@
       @name = name
     end
   end
-
-
-
-
