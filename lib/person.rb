@@ -6,6 +6,6 @@
 
 
 
-beyonce = Person.new
+beyonce = Person.new("Beyonce")
 beyonce.name = "Beyonce"
-beyonce.name
+
