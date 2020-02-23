@@ -7,4 +7,4 @@
 
 
 beyonce = Person.new("Beyonce")
-beyonce.name = "Beyonce"
+beyonce.name 
