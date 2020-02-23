@@ -3,8 +3,11 @@
       @name = name
     end
 
-    def initialize(breed, name)
-      @breed = breed
+    def initialize(name)
       @name = name
     end
   end
+
+  fido = Dog.new
+  fido = name= "Fido"
+  fido.name
