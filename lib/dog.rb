@@ -4,5 +4,3 @@
       @breed = breed
     end
   end
-
-  
