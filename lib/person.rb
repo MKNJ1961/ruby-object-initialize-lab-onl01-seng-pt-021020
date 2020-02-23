@@ -11,3 +11,7 @@
       @name
     end
   end
+
+beyonce Person.new
+beyonce.name = "Beyonce"
+name 
