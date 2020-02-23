@@ -11,5 +11,3 @@
       @name
     end
   end
-      
-  
