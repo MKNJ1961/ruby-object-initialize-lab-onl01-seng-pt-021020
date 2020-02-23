@@ -8,5 +8,3 @@
       @name = name
     end
   end
-
-      
